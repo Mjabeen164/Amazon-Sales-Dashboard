@@ -26,7 +26,7 @@ To view and interact with this dashboard, you will need:
 
 * **[Microsoft Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/)** (Free to download)
   
-##🚀 Get the Dashboard
+## 🚀 Get the Dashboard
 
 This is a premium template designed to be used with your own Amazon data exports (CSV/Excel).
 
