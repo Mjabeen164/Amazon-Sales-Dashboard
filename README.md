@@ -9,8 +9,6 @@ A comprehensive Power BI dashboard for visualizing Amazon sales, profitability, 
 ## 📊 Overview
 This repository contains a comprehensive Power BI dashboard designed to visualize and analyze key sales, inventory, and performance metrics for an Amazon business. The dashboard provides interactive insights to monitor business health, identify trends, and make data-driven decisions.
 
-The main file is `Amazon Dashboard.pbix`.
-
 ## ✨ Features
 The dashboard typically includes visualizations and key performance indicators (KPIs) covering areas such as:
 
